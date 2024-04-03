@@ -1,7 +1,7 @@
 Date: April 3rd, 2024
 User: James Surya Putra
 
-# Kaggle-Competition-Projects
+# Kaggle Competition Projects
 
 Not having fun coding yet? Take a look at this extra repository that contains my competition notebook library from Kaggle Competitions along with content expansions!
 
