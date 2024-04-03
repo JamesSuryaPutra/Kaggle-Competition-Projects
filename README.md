@@ -1,7 +1,4 @@
-Date: April 3rd, 2024
-User: James Surya Putra
-
-# Petals to the Metal: Flower Classification on TPU
+Petals to the Metal: Flower Classification on TPU
 
 # The Challenge
 It’s difficult to fathom just how vast and diverse our natural world is. There are over 5,000 species of mammals, 10,000 species of birds, 30,000 species of fish; and astonishingly, over 400,000 different types of flowers.
