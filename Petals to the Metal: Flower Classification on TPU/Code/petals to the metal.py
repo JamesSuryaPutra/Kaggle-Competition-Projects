@@ -1,8 +1,0 @@
-<Preparation>
-
-# Import functions first
-import math, re, os
-import numpy as np
-import tensorflow as tf
-
-print("Tensorflow version: " + tf.__version__)
